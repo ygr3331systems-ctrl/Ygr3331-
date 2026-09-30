@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ygr3331systems-ctrl.github.io/Ygr3331-/sitemap.xml
